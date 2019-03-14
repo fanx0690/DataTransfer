@@ -1,7 +1,7 @@
 # data-transfer
 
 This is a small project based on java
-which is implement UDP protocol to transfer data
+which is implement UDP protocol to transfer data file
 
 Sender is going to cut the file into small data datagrams each one has 124 byte 
 and also it will add our more byte to the front of the datagram which is using for sequence number. 
